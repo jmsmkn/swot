@@ -1,0 +1,15 @@
+name: Sync Fork
+
+on:
+  schedule:
+    - cron: '42 6 * * 3'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: tgymnich/fork-sync@v1.2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          owner: JetBrains
