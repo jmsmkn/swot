@@ -217,7 +217,6 @@ zjsru.edu.cn
 student.scf.edu
 my.unitec.edu.mx
 s.upc.edu.cn
-student.gla.ac.uk
 mywvm.wvm.edu
 kmismail.com
 aufe.edu.cn
@@ -257,3 +256,6 @@ mjj.edu.ge
 nnu.edu.cn
 st.usst.edu.cn
 student.laccd.edu
+mail.irsc.edu
+kmust.edu.cn
+rawafed.edu.ps
