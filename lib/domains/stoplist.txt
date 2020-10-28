@@ -249,7 +249,7 @@ mails.qust.edu.cn
 lzjtu.edu.cn
 connect.hku.hk
 stu.scu.edu.cn
-stu.kust.edu.cn
+kust.edu.cn
 mail.ustc.edu.cn
 student.laccd.edu
 mjj.edu.ge
@@ -260,3 +260,9 @@ mail.irsc.edu
 kmust.edu.cn
 rawafed.edu.ps
 st.usst.edu.cn
+student.wstkt.edu.pl
+stu.xhsysu.edu.cn
+my.browncollege.edu
+2020.gsm.cocite.pt
+gsm.cocite.pt
+cocite.pt
