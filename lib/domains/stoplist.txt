@@ -17,8 +17,6 @@ aaedu.edu.pl
 k.tut.edu.pl
 uno.edu.gr
 mdu.edu.rs
-my.tccd.edu
-tccd.edu
 x.pycharm.ac.cn
 pycharm.ac.cn
 k.kkk.ac.nz
@@ -149,7 +147,6 @@ aurora.ekof.bg.ac.rs
 queens.ac.id
 stu.ccsu.edu.cn
 email.axc.edu.gr
-zju.edu.cn
 mail.csu.edu.cn
 zanestate.edu
 student.palomar.edu
@@ -179,7 +176,6 @@ kings.edu.uy
 cjlu.edu.cn
 my.yosemite.edu
 stu.parkland.edu
-cc.peralta.edu
 tongji.edu.cn
 student.ptithcm.edu.vn
 ze-zha.com
@@ -198,14 +194,12 @@ bnu.edu.cn
 jlu.edu.cn
 zucc.edu.cn
 xmu.edu.cn
-seu.edu.cn
 nenu.edu.cn
 nwafu.edu.cn
 swu.edu.cn
 snnu.edu.cn
 hnu.edu.cn
 dlut.edu.cn
-hust.edu.cn
 clatsopcc.edu
 tmu.edu.cn
 sch.edu.af
@@ -240,7 +234,6 @@ vip.hnist.edu.cn
 nccu.edu.tw
 stu.hnucm.edu.cn
 mail.ntust.edu.tw
-bit.edu.cn
 mails.qust.edu.cn
 lzjtu.edu.cn
 connect.hku.hk
@@ -265,3 +258,8 @@ stu.sisu.edu.cn
 vip.haust.edu.cn
 njnu.edu.cn
 mymail.tcc.fl.edu
+go.minnstate.edu
+siswa.email
+codesra.cn
+tccd.edu
+mail.hbut.edu.cn
