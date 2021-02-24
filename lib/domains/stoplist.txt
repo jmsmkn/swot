@@ -318,3 +318,7 @@ stu.kust.edu.cn
 helwan.edu.eg
 my.tccd.edu
 gavilan.edu
+secupv.org
+xingle.me
+caa.edu.cn
+stu.scau.edu.cn
