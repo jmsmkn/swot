@@ -213,7 +213,6 @@ wru.vn
 bcmail.cuny.edu
 peking.pkumail.tech
 stu.hcnu.edu.cn
-stu.ouc.edu.cn
 tsinghua.pkumail.tech
 stu.haut.edu.cn
 sem.tsinghua.edu.cn
@@ -298,7 +297,7 @@ whu.edu.cn
 aof.anadolu.edu.tr
 zju.edu.cn
 uiot.ac.ug
-stu.qhnu.edu.cn
+qhnu.edu.cn
 stu.ahu.edu.cn
 mail.xjtu.edu.cn
 mail.0du.win
@@ -345,6 +344,15 @@ email
 live
 ninja
 studio
+app
 zut.edu.cn
 sz.pku.edu.cn
 mail.nwpu.edu.cn
+bestlistbase.com
+mail.ru
+m.fafu.edu.cn
+leonvero.com
+mailpoof.com
+emlmuak.cn
+mail.mss.sc.ug
+sus.edu
